@@ -1,2 +1,2 @@
 #!/bin/bash
-gtep -iA 3 root /etc/passswd
+grep -iA 3 root /etc/passswd
